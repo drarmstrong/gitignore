@@ -1,0 +1,3 @@
+#ignore Twitter 'secrets' files
+secrets.py
+secrets.pyc
